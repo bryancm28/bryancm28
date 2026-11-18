@@ -1,101 +1,51 @@
 <h1 align="center">HackBryH1</h1>
 
-<h3 align="center">Desarrollador enfocado en tecnología, datos, inteligencia artificial y ciberseguridad.</h3>
+<p align="center">
+<b>Desarrollador de software enfocado en ciberseguridad defensiva, redes y aplicaciones web</b><br>
+<i>Think like an attacker. Build like an engineer.</i>
+</p>
 
 <p align="center">
-  Construyendo proyectos, explorando nuevas tecnologías y aprendiendo cómo funcionan los sistemas desde el código hasta la infraestructura.
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 </p>
 
-<h3 align="left">Áreas de interés:</h3>
+---
 
-<p align="left">
-  • Desarrollo web y aplicaciones<br>
-  • Ciberseguridad y seguridad informática<br>
-  • Ciencia de datos e inteligencia artificial<br>
-  • Bases de datos y SQL<br>
-  • Automatización y desarrollo de herramientas<br>
-  • Linux, servidores e infraestructura
-</p>
+## Sobre mí
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+Construyo herramientas de seguridad y aplicaciones completas, desde la interfaz hasta la infraestructura. Me interesa entender cómo funcionan los sistemas por dentro para poder protegerlos mejor.
 
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
+- Ciberseguridad defensiva: firewalls, filtrado DNS, monitoreo de red y auditoría de procesos
+- Backend con Python (FastAPI, asyncio) y bases de datos SQL
+- Frontend con React y Tailwind
+- Infraestructura con Docker Compose, Nginx y Linux
 
-<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
+## Proyectos destacados
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [**Jessecurity DNS**](https://github.com/bryancm28/Jessecuryti-Dns) | Servidor DNS que bloquea anuncios, trackers, malware y phishing para toda una red. Panel web en tiempo real, autenticación JWT con roles y 7 microservicios. | Python · FastAPI · React · PostgreSQL · Redis · Docker |
+| [**Sentinel Firewall**](https://github.com/bryancm28/FIREWALL) | Firewall personal y monitor de seguridad para Windows y Linux. Conexiones en vivo, alertas, reglas de bloqueo y auditoría de procesos, con arquitectura limpia por capas. | Python · PySide6 · SQLite · pytest |
+| [**Descargador BRYH1**](https://github.com/bryancm28/DESCARDOR-MUSICA-MP3-MP4-YOUTUBE) | Aplicación de escritorio para descargar audio y video, con interfaz moderna, barra de progreso e historial. Compilable a .exe. | Python · CustomTkinter · yt-dlp |
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+## Tecnologías
 
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
+**Lenguajes:** Python, JavaScript, SQL, HTML/CSS, C++, Dart<br>
+**Backend:** FastAPI, SQLAlchemy, asyncio, WebSockets<br>
+**Frontend y apps:** React, Vite, Tailwind CSS, PySide6/Qt, Flutter<br>
+**Datos:** PostgreSQL, MySQL, SQLite, Redis, Firebase<br>
+**Infraestructura:** Docker, Docker Compose, Nginx, Linux, Git<br>
+**Seguridad:** JWT, bcrypt, rate limiting, nftables/iptables, Windows Defender Firewall, DNS sinkhole
 
-<a href="https://dart.dev" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-</a>
+## Actualmente
 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</a>
+- Próximo en Jessecurity DNS: DNS-over-HTTPS y reglas por dispositivo
+- Disponible para proyectos freelance: páginas web, sistemas a la medida y revisiones de seguridad para pequeños negocios
 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-
-</p>
-
-<h3 align="left">Actualmente:</h3>
-
-<p align="left">
-Aprendiendo • Construyendo • Experimentando • Mejorando
-</p>
-
-<h3 align="left">Proyectos:</h3>
-
-<p align="left">
-Desarrollo de aplicaciones web y móviles, sistemas con bases de datos,
-automatización, inteligencia artificial, análisis de datos y herramientas
-orientadas a la seguridad informática.
-</p>
-
-<h3 align="left">Filosofía:</h3>
-
-<p align="left">
-El conocimiento no sirve de mucho si no puedes convertirlo en algo.
-</p>
-
-<h3 align="left">Perfil:</h3>
-
-<p align="left">
-<code>Technology</code> • <code>Code</code> • <code>Security</code> • <code>AI</code>
-</p>
+<p align="center"><i>El conocimiento no sirve de mucho si no puedes convertirlo en algo.</i></p>
